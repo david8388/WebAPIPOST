@@ -1,0 +1,14 @@
+/Users/wuxiancheng/WebAPIPOST/bin/Debug/netcoreapp2.2/WebAPIPOST.deps.json
+/Users/wuxiancheng/WebAPIPOST/bin/Debug/netcoreapp2.2/WebAPIPOST.runtimeconfig.json
+/Users/wuxiancheng/WebAPIPOST/bin/Debug/netcoreapp2.2/WebAPIPOST.runtimeconfig.dev.json
+/Users/wuxiancheng/WebAPIPOST/bin/Debug/netcoreapp2.2/WebAPIPOST.dll
+/Users/wuxiancheng/WebAPIPOST/bin/Debug/netcoreapp2.2/WebAPIPOST.pdb
+/Users/wuxiancheng/WebAPIPOST/obj/Debug/netcoreapp2.2/WebAPIPOST.csprojAssemblyReference.cache
+/Users/wuxiancheng/WebAPIPOST/obj/Debug/netcoreapp2.2/WebAPIPOST.csproj.CoreCompileInputs.cache
+/Users/wuxiancheng/WebAPIPOST/obj/Debug/netcoreapp2.2/WebAPIPOST.RazorAssemblyInfo.cache
+/Users/wuxiancheng/WebAPIPOST/obj/Debug/netcoreapp2.2/WebAPIPOST.RazorAssemblyInfo.cs
+/Users/wuxiancheng/WebAPIPOST/obj/Debug/netcoreapp2.2/WebAPIPOST.AssemblyInfoInputs.cache
+/Users/wuxiancheng/WebAPIPOST/obj/Debug/netcoreapp2.2/WebAPIPOST.AssemblyInfo.cs
+/Users/wuxiancheng/WebAPIPOST/obj/Debug/netcoreapp2.2/WebAPIPOST.RazorTargetAssemblyInfo.cache
+/Users/wuxiancheng/WebAPIPOST/obj/Debug/netcoreapp2.2/WebAPIPOST.dll
+/Users/wuxiancheng/WebAPIPOST/obj/Debug/netcoreapp2.2/WebAPIPOST.pdb
